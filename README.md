@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nzonda
-- 👀 I’m interested in blokchain
+- 👀 I’m interested in Bitcoin
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
